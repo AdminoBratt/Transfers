@@ -1,0 +1,21 @@
+# Datahantering
+pandas
+numpy
+
+# Visualisering
+matplotlib
+seaborn
+plotly   # interaktiva grafer
+
+# Statistik & regression
+scikit-learn
+statsmodels
+scipy
+
+# Jupyter-miljö
+jupyter
+notebook
+ipykernel
+
+# Extra för EDA
+missingno          # visualisering av missing values
