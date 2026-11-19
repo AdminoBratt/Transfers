@@ -1,21 +1,25 @@
+# Streamlit-appen
+streamlit==1.49.1
+plotly==6.3.0
+
 # Datahantering
-pandas
-numpy
+pandas==2.3.2
+numpy==2.3.2
 
-# Visualisering
-matplotlib
-seaborn
-plotly   # interaktiva grafer
+# Modell – låst version: .pkl-modellerna är sparade med scikit-learn 1.7.2
+# och kan sluta fungera med en annan version
+scikit-learn==1.7.2
 
-# Statistik & regression
-scikit-learn
-statsmodels
-scipy
+# Visualisering i notebooks
+matplotlib==3.10.6
+seaborn==0.13.2
 
 # Jupyter-miljö
 jupyter
 notebook
 ipykernel
 
-# Extra för EDA
-missingno          # visualisering av missing values
+# Statistik & EDA
+statsmodels
+scipy
+missingno

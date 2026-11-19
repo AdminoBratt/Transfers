@@ -1,0 +1,17 @@
+# Virtuell miljö (skapas lokalt med: python -m venv .venv)
+.venv/
+venv/
+Lib/
+Scripts/
+Include/
+etc/
+share/
+pyvenv.cfg
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Miljövariabler
+.env
